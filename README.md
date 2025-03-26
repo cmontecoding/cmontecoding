@@ -2,7 +2,9 @@
 
 ### I'm a software engineer and educator who loves everything DeFi and Web3.
 
-I am a Smart-Contract Engineer and Core-Contributor at [Kwenta](https://kwenta.io/) where I integrate [Synthetix](https://www.synthetix.io/) perpetual futures contracts into the Kwenta platform and design other protocol tokenomics that span across Arbitrum, Optimism, and Base.
+I'm currently building Onyx (launching soon)
+
+Previously I was a Smart-Contract Engineer and Core-Contributor at [Synthetix](https://www.synthetix.io/) specializing in perpetual futures integration and cross-chain protocol tokenomics (Arbitrum, Optimism, Base)
 
 I am also a fellow and technical writer at [Rareskills](https://www.rareskills.io/) where I write and edit about Defi, Advanced Solidity, and ZK. Contributions include but are not limited to: [Compound V3 Book](https://www.rareskills.io/compound-v3-book), Uniswap V3 Book (soon), Curve Book (soon). You can see my latest article explaining [Beacon Proxies](https://www.rareskills.io/post/beacon-proxy) and how I integrated it into Kwenta.
 
