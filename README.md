@@ -2,7 +2,7 @@
 
 ### I'm a software engineer and educator who loves everything DeFi and Web3.
 
-I'm currently building Onyx (launching soon)
+I'm currently building [Onyx](https://onyx.bond/) 
 
 Previously I was a Smart-Contract Engineer and Core-Contributor at [Synthetix](https://www.synthetix.io/) specializing in perpetual futures integration and cross-chain protocol tokenomics (Arbitrum, Optimism, Base)
 
