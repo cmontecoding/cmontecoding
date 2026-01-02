@@ -24,3 +24,10 @@ Best to reach me on [X](https://x.com/andrewcmonte)
   - [Compund V3 Book](https://rareskills.io/compound-v3-book)
   - [Beacon Proxies and how I made my 20M+ TVL Beacon Proxy for Kwenta](https://www.rareskills.io/post/beacon-proxy)
 - [Kwenta](https://www.kwenta.io/) (Acquired By Synthetix) - Smart Contracts 
+
+### AI STACK (if youre not using ai youre cooked bruv)
+
+- Claude Code with Opus 4.5 for most things (backend, smart contracts, etc)
+- Gemini and Cursor on auto for front end design (cursor can take image context)
+- ChatGPT for image generation, or midjourney sometimes
+- NotebookLM for research
