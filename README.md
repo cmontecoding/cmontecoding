@@ -8,7 +8,7 @@ I'm currently building [Flywheel Labs](https://www.flywheellabs.xyz/). We are a 
 
 ### If you're another dev:
 
-Feel free to reach out to me for advice (free ofc). I'm always happy to take people from 0 > working in defi. Or maybe we can team up and build something.
+Feel free to reach out, I want to know what you're building and maybe we can team up to build the next 9 figure TVL. Also can give advice if youre a newer dev: I'm always happy to take people from 0 --> working in defi (free ofc). 
 
 Best to reach me on [X](https://x.com/andrewcmonte)
 
