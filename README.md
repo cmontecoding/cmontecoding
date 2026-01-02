@@ -23,4 +23,4 @@ Best to reach me on [X](https://x.com/andrewcmonte)
   - Curve Book (TBD)
   - [Compund V3 Book](https://rareskills.io/compound-v3-book)
   - [Beacon Proxies and how I made my 20M+ TVL Beacon Proxy for Kwenta](https://www.rareskills.io/post/beacon-proxy)
-- [Kwenta](https://www.kwenta.io/) (Acquired By Synthetix) Smart Contracts 
+- [Kwenta](https://www.kwenta.io/) (Acquired By Synthetix) - Smart Contracts 
