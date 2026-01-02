@@ -1,11 +1,26 @@
-## Hey, I'm Andrew 👋
+## Founder, Educator, Chill Guy
 
-### I'm a software engineer and educator who loves everything DeFi and Web3.
+### If you're a recruiter:
 
-I'm currently building [Onyx](https://onyx.bond/) 
+I'm probably not looking for anything right now but feel free to DM. I have a pipeline of hungry product focused engineers.
 
-Previously I was a Smart-Contract Engineer and Core-Contributor at [Synthetix](https://www.synthetix.io/) specializing in perpetual futures integration and cross-chain protocol tokenomics (Arbitrum, Optimism, Base)
+I'm currently building [Flywheel Labs](https://www.flywheellabs.xyz/). We are a Defi game studio. Our first title is [Ponzi.place](https://www.ponzi.place/). Second title in development.
 
-I am also a fellow and technical writer at [Rareskills](https://www.rareskills.io/) where I write and edit about Defi, Advanced Solidity, and ZK. Contributions include but are not limited to: [Compound V3 Book](https://www.rareskills.io/compound-v3-book), Uniswap V3 Book (soon), Curve Book (soon). You can see my latest article explaining [Beacon Proxies](https://www.rareskills.io/post/beacon-proxy) and how I integrated it into Kwenta.
+### If you're another dev:
 
-For more information about me, you can check out my [personal website](https://definative.xyz/) or [x](https://x.com/andrewcmonte).
+Feel free to reach out to me for advice (free ofc). I'm always happy to take people from 0 > working in defi. Or maybe we can team up and build something.
+
+Best to reach me on [X](https://x.com/andrewcmonte)
+
+### Previous Work:
+
+- Smart Contracts, Product, Copywriting [Onyx](https://onyx.sale/) 
+- Smart Contracts, Flywheel [Aerostrategy](https://www.aerostrategy.finance/)
+- Smart Contracts [Synthetix](https://www.synthetix.io/)
+- Fellow & Technical Writer [Rareskills](https://www.rareskills.io/)
+  -[ZK Book](https://rareskills.io/zk-book)
+  -[Uniswap V3 Book](https://rareskills.io/uniswap-v3-book)
+  -Curve Book (TBD)
+  -[Compund V3 Book](https://rareskills.io/compound-v3-book)
+  -[Beacon Proxies and how I made my 20M+ TVL Beacon Proxy for Kwenta](https://www.rareskills.io/post/beacon-proxy)
+- Smart Contracts Kwenta (Acquired By Synthetix)
