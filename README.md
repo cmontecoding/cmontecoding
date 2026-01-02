@@ -1,4 +1,4 @@
-## Founder, Educator, Chill Guy
+# Founder, Educator, Chill Guy
 
 ### If you're a recruiter:
 
@@ -14,13 +14,13 @@ Best to reach me on [X](https://x.com/andrewcmonte)
 
 ### Previous Work:
 
-- Smart Contracts, Product, Copywriting [Onyx](https://onyx.sale/) 
-- Smart Contracts, Flywheel [Aerostrategy](https://www.aerostrategy.finance/)
-- Smart Contracts [Synthetix](https://www.synthetix.io/)
-- Fellow & Technical Writer [Rareskills](https://www.rareskills.io/)
-  -[ZK Book](https://rareskills.io/zk-book)
-  -[Uniswap V3 Book](https://rareskills.io/uniswap-v3-book)
-  -Curve Book (TBD)
-  -[Compund V3 Book](https://rareskills.io/compound-v3-book)
-  -[Beacon Proxies and how I made my 20M+ TVL Beacon Proxy for Kwenta](https://www.rareskills.io/post/beacon-proxy)
+- [Onyx](https://onyx.sale/) - Smart Contracts, Product, Copywriting
+- [Aerostrategy](https://www.aerostrategy.finance/) - Smart Contracts, Flywheel
+- [Synthetix](https://www.synthetix.io/) - Smart Contracts
+- [Rareskills](https://www.rareskills.io/) - Fellow & Technical Writer
+  - [ZK Book](https://rareskills.io/zk-book)
+  - [Uniswap V3 Book](https://rareskills.io/uniswap-v3-book)
+  - Curve Book (TBD)
+  - [Compund V3 Book](https://rareskills.io/compound-v3-book)
+  - [Beacon Proxies and how I made my 20M+ TVL Beacon Proxy for Kwenta](https://www.rareskills.io/post/beacon-proxy)
 - Smart Contracts Kwenta (Acquired By Synthetix)
