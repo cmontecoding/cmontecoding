@@ -1,18 +1,18 @@
 # Founder, Educator, Chill Guy
 
-If you're a recruiter:
+### If you're a recruiter:
 
 I'm probably not looking for anything right now but feel free to DM. I have a pipeline of hungry product focused engineers.
 
 I'm currently building [Flywheel Labs](https://www.flywheellabs.xyz/). We are a Defi game studio. Our first title is [Ponzi.place](https://www.ponzi.place/). Second title in development.
 
-If you're another dev:
+### If you're another dev:
 
 Feel free to reach out to me for advice (free ofc). I'm always happy to take people from 0 > working in defi. Or maybe we can team up and build something.
 
 Best to reach me on [X](https://x.com/andrewcmonte)
 
-Previous Work (some displayed below):
+### Previous Work (some pinned below):
 
 - [Onyx](https://onyx.sale/) - Smart Contracts, Product, Copywriting
 - [Aerostrategy](https://www.aerostrategy.finance/) - Smart Contracts, Flywheel
