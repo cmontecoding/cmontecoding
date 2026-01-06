@@ -27,7 +27,6 @@ Best to reach me on [X](https://x.com/andrewcmonte)
 
 ### AI STACK (if youre not using ai youre cooked bruv)
 
-- Claude Code with Opus 4.5 for most things (backend, smart contracts, etc)
-- Gemini and Cursor on auto for front end design (cursor can take image context)
-- ChatGPT for image generation, or midjourney sometimes
+- Claude Code with Opus 4.5 & Google Antigravity with Gemini 3.0 Pro for all dev (front-end, smart contracts, etc)
+- ChatGPT or Midjourney for image generation
 - NotebookLM for research
