@@ -1,6 +1,6 @@
 # Founder, Educator, Chill Guy
 
-I'm currently building [Flywheel Labs](https://www.flywheellabs.xyz/). We are a Defi game studio. Currently developing our second title [BasedRust](https://www.basedrust.fun/). Our first title is [Ponzi.place](https://www.ponzi.place/).
+I'm currently building Flywheel Labs: We are a Defi game studio. Currently developing our second title [BasedRust](https://www.basedrust.fun/). First title [Ponzi.place](https://www.ponzi.place/).
 
 Best to reach me on [X](https://x.com/andrewcmonte)
 
