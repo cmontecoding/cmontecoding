@@ -12,7 +12,7 @@ Best to reach me on [X](https://x.com/andrewcmonte)
 - [Aerostrategy](https://aerostrategy.finance) - Full-scale yield-bearing vault protocol. $6M+ market cap, $1M+ TVL. $400K in fees in first 24 hours.
 - [Synthetix](https://exchange.synthetix.io) - Core Smart Contract Engineer. Solo-engineered $50M+ in acquisition contracts. $10B+ volume.
 - [Kwenta](https://kwenta.eth.limo) (Acquired By Synthetix) - Smart Contracts. $50M+ TVL, $100M+ daily volume. Custom Beacon Proxy vesting in Yul/Assembly with $20M+ TVL.
-- [Rareskills](https://www.rareskills.io) - Fellow & Technical Writer
+- [Rareskills](https://www.rareskills.io) - Technical Writer & Editor
     - [ZK Book](https://www.rareskills.io/zk-book)
     - [Uniswap V3 Book](https://www.rareskills.io/uniswap-v3-book)
     - Curve Book (TBD)
