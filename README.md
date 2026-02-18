@@ -2,7 +2,7 @@
 
 I'm currently building Flywheel Labs: We are a DeFi game studio. In dev is our second title [BasedRust](https://www.basedrust.fun/). First title [Ponzi.place](https://ponzi.place).
 
-Full stack engineer — frontend, backend, DB, Rust plugins, smart contracts. 2+ years across Solana and EVM. $100M+ TVL, $10B+ trading volume.
+Full stack engineer — frontend, backend, DB, smart contracts. 2+ years across Solana and EVM. $100M+ TVL, $10B+ trading volume.
 
 Best to reach me on [X](https://x.com/andrewcmonte)
 
