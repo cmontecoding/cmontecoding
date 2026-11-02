@@ -4,8 +4,6 @@ Full-stack software engineer with 3+ years shipping production systems across
 frontend, backend, and smart contracts. Products I've built have handled
 $100M+ in assets and $10B+ in trading volume.
 
-Currently building [Flywheel Labs](https://basedrust.fun).
-
 ## Previous Work
 
 - **[Onyx](https://onyx.bond)** - Founding Engineer. Architecture & product
